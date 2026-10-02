@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "filename" : "PICT0000.jpg",
+    "hash" : "PICT0000.jpg:120939",
+    "timestamp" : "2026-10-02T16:01:40Z",
+    "type" : "photo",
+    "url" : "media\/PICT0000.jpg"
+  },
+  {
+    "filename" : "PICT0001.jpg",
+    "hash" : "PICT0001.jpg:148348",
+    "timestamp" : "2026-10-02T16:01:40Z",
+    "type" : "photo",
+    "url" : "media\/PICT0001.jpg"
+  },
+  {
+    "filename" : "PICT0002.jpg",
+    "hash" : "PICT0002.jpg:147983",
+    "timestamp" : "2026-10-02T16:01:40Z",
+    "type" : "photo",
+    "url" : "media\/PICT0002.jpg"
+  }
+]
